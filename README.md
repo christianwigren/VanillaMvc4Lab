@@ -1,4 +1,4 @@
-VanillaMvc4Lab
+﻿VanillaMvc4Lab
 ==============
 
-Repo för att testa AppVayor
+Repo för att testa AppVeyor
